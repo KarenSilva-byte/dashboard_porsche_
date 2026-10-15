@@ -232,7 +232,7 @@ https://github.com/KarenSilva-byte/dashboard_porsche_
 
 ### Dashboard Publicada
 
-Insira aqui o endereço do GitHub Pages.
+https://karensilva-byte.github.io/dashboard_porsche_/
 
 ## 9. Conclusão
 
