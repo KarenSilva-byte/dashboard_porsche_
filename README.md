@@ -251,3 +251,21 @@ a tomada de decisões comerciais.
 
 Esses indicadores permitem acompanhar o desempenho
 geral das vendas e facilitam a interpretação dos dados.
+
+## 10. Evidências de Funcionamento
+
+### Dashboard completa
+
+A imagem abaixo apresenta a dashboard com
+os indicadores e gráficos de vendas.
+
+![Dashboard completa](Dashboard%20completa.jpeg)
+
+### Dashboard com filtro aplicado
+
+A imagem abaixo demonstra a dashboard
+após a aplicação de um filtro,
+permitindo analisar os resultados
+de forma específica.
+
+![Dashboard filtrada](dashboard%20filtrada.jpeg)
